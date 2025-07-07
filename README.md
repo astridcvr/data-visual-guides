@@ -19,6 +19,7 @@ All documents are created by **Astrid Villalobos**, an economist and data/projec
 | Title | Topics | Language | Format |
 |-------|--------|----------|--------|
 | Data Constraints Explained | Data validation, database design | English / Spanish | PDF |
+| Data Analytics Project Ideas | Project design, industry-specific use cases, tools & skills | English / Spanish | PDF |
 | [More coming soon...] | KPIs, Forecasting, Project Planning | EN/ES | PDF |
 
 ---
