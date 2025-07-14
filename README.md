@@ -20,6 +20,7 @@ All documents are created by **Astrid Villalobos**, an economist and data/projec
 |-------|--------|----------|--------|
 | Data Constraints Explained | Data validation, database design | English / Spanish | PDF |
 | Data Analytics Project Ideas | Project design, industry-specific use cases, tools & skills | English / Spanish | PDF |
+| Excel Funtions Bilingual Guide | Excel formulas, data analysis, bilingual learning | English / Spanish | PDF |
 | [More coming soon...] | KPIs, Forecasting, Project Planning | EN/ES | PDF |
 
 ---
